@@ -1,0 +1,15 @@
+Package: vangogh
+Type: Package
+Title: Van Gogh's Palettes for R Graphics
+Version: 0.1.0
+Author: Andrew McCartney
+Maintainer: Andrew McCartney <acm9q@virginia.edu>
+Description: 
+    Based on the Wes Anderson package and RColorBrewer, 
+    This package provides a list of palettes based on Van Gogh 
+    Paintings and a set of functions for implementing them. 
+License: Creative Commons
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
+Built: R 3.4.0; ; 2017-07-23 05:39:38 UTC; windows
